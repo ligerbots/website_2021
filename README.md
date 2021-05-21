@@ -1,1 +1,1 @@
-# website_2021
+# Wordpress Theme for the LigerBots 2021 website
